@@ -1,6 +1,7 @@
-sage-data-client
-numpy
-matplotlib
-folium
+sage-data-client==0.9.1
+numpy==2.4.6
+matplotlib==3.11.0
+folium==0.20.0
 neonutilities>=2.0.1
-h5py
+h5py==3.16.0
+python-dotenv==1.2.2
