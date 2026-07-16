@@ -2,3 +2,5 @@ sage-data-client
 numpy
 matplotlib
 folium
+neonutilities>=2.0.1
+h5py
